@@ -4,6 +4,6 @@
   <!-- EN: penoxycyline -->
   <PenoxycylineHigh.label>盤諾沙林亢奮</PenoxycylineHigh.label>
   <!-- EN: Penoxycyline-induced immunity to certain illnesses. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant. -->
-  <PenoxycylineHigh.description>盤諾沙林會針對某些疾病產生免疫力，這只能阻擋新的疾病感染，對於已經感染的人、休眠狀態中的感染沒有任何作用。</PenoxycylineHigh.description>
+  <PenoxycylineHigh.description>盤諾沙林能延緩某些病毒進度並產生免疫力。若感染已嚴重，可能無法及時建立免疫力。簡單說，這是一場跟病毒的賽跑，治療品質越高（建議70%以上）免疫力生成就越快。</PenoxycylineHigh.description>
   
 </LanguageData>
